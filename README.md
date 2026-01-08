@@ -24,29 +24,17 @@ Real-time school bus tracking system for schools, drivers, and parents.
 
 ## Screenshots
 
-### Login
-![Login Screen](./Screenshots/LoginScreen.png)
+### 🚍 Driver Workflow
+| Dashboard | Trip Start | Active Trip |
+|:---:|:---:|:---:|
+| <img src="./Screenshots/DriverMain.png" width="200"> | <img src="./Screenshots/TripStart.png" width="200"> | <img src="./Screenshots/DriverActiveTrip.png" width="200"> |
 
-### Driver Dashboard
-![Driver Main](./Screenshots/DriverMain.png)
+### 👨‍👩‍👧‍👦 Parent Workflow
+| Dashboard | Track Bus | Trip History |
+|:---:|:---:|:---:|
+| <img src="./Screenshots/ParentMain.png" width="200"> | <img src="./Screenshots/ParentTrack.png" width="200"> | <img src="./Screenshots/TripHistory.png" width="200"> |
 
-### Active Trip
-![Active Trip](./Screenshots/DriverActiveTrip.png)
-
-### Trip Started
-![Trip Start](./Screenshots/TripStart.png)
-
-### Driver Profile
-![Driver Profile](./Screenshots/DriverProfile.png)
-
-### Parent Dashboard
-![Parent Main](./Screenshots/ParentMain.png)
-
-### Track Bus
-![Track Bus](./Screenshots/ParentTrack.png)
-
-### Trip History
-![Trip History](./Screenshots/TripHistory.png)
-
-### Parent Profile
-![Parent Profile](./Screenshots/ParentProfile.png)
+### 👤 Account & Profiles
+| Login Screen | Driver Profile | Parent Profile |
+|:---:|:---:|:---:|
+| <img src="./Screenshots/LoginScreen.png" width="200"> | <img src="./Screenshots/DriverProfile.png" width="200"> | <img src="./Screenshots/ParentProfile.png" width="200"> |
