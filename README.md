@@ -24,17 +24,17 @@ Real-time school bus tracking system for schools, drivers, and parents.
 
 ## Screenshots
 
-### 🚍 Driver Workflow
+###  Driver Workflow
 | Dashboard | Trip Start | Active Trip |
 |:---:|:---:|:---:|
 | <img src="./Screenshots/DriverMain.png" width="200"> | <img src="./Screenshots/TripStart.png" width="200"> | <img src="./Screenshots/DriverActiveTrip.png" width="200"> |
 
-### 👨‍👩‍👧‍👦 Parent Workflow
+###  Parent Workflow
 | Dashboard | Track Bus | Trip History |
 |:---:|:---:|:---:|
 | <img src="./Screenshots/ParentMain.png" width="200"> | <img src="./Screenshots/ParentTrack.png" width="200"> | <img src="./Screenshots/TripHistory.png" width="200"> |
 
-### 👤 Account & Profiles
+###  Account & Profiles
 | Login Screen | Driver Profile | Parent Profile |
 |:---:|:---:|:---:|
 | <img src="./Screenshots/LoginScreen.png" width="200"> | <img src="./Screenshots/DriverProfile.png" width="200"> | <img src="./Screenshots/ParentProfile.png" width="200"> |
