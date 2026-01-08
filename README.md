@@ -25,28 +25,28 @@ Real-time school bus tracking system for schools, drivers, and parents.
 ## Screenshots
 
 ### Login
-![Login Screen](./screenshots/LoginScreen.png)
+![Login Screen](./Screenshots/LoginScreen.png)
 
 ### Driver Dashboard
-![Driver Main](./screenshots/DriverMain.png)
+![Driver Main](./Screenshots/DriverMain.png)
 
 ### Active Trip
-![Active Trip](./screenshots/DriverActiveTrip.png)
+![Active Trip](./Screenshots/DriverActiveTrip.png)
 
 ### Trip Started
-![Trip Start](./screenshots/TripStart.png)
+![Trip Start](./Screenshots/TripStart.png)
 
 ### Driver Profile
-![Driver Profile](./screenshots/DriverProfile.png)
+![Driver Profile](./Screenshots/DriverProfile.png)
 
 ### Parent Dashboard
-![Parent Main](./screenshots/ParentMain.png)
+![Parent Main](./Screenshots/ParentMain.png)
 
 ### Track Bus
-![Track Bus](./screenshots/ParentTrack.png)
+![Track Bus](./Screenshots/ParentTrack.png)
 
 ### Trip History
-![Trip History](./screenshots/TripHistory.png)
+![Trip History](./Screenshots/TripHistory.png)
 
 ### Parent Profile
-![Parent Profile](./screenshots/ParentProfile.png)
+![Parent Profile](./Screenshots/ParentProfile.png)
